@@ -61,8 +61,8 @@ A Telegram CC Checker Bot with hella lotta features.
 ## ⚙️ Deployment
 
 ### Hosting on Heroku
-    
- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fiam-NVN%2FSDMN_CheckerBot%2Fblob%2Fheroku-version)
+    n
+ [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DanDaSG/SDMN_CheckerBot/tree/heroku-version)
  - Star and Fork this Repo
  - Click on the Above Shown ```Deploy To Heroku``` Button
  - Get Free Database from [Here](https://freesqldatabase.com)
